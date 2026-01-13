@@ -1,0 +1,15 @@
+
+!.gitignore
+
+!index.html
+
+!styles.css
+
+!README.md
+
+!images/
+
+!images/pj.jpg
+
+.DS_Store
+
